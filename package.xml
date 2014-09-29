@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>talos_os</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>The talos_os package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
